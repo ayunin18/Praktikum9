@@ -12,7 +12,7 @@
 
                 <div class="mb-3 text center" >
                     <center><i class="bi bi-box-arrow-up fs-1"></i>
-                    <h4>Detail Barang</h4></center>
+                    <h4>DETAIL BARANG</h4></center>
                 </div>
                 <hr>
                 <div class="row">
